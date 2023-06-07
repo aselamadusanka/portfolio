@@ -19,7 +19,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/aselamadusanka',
     },
     {
-      name: 'Codepen',
+      name: 'Facebook',
       url: 'https://web.facebook.com/asela1madusanka',
     },
   ],
