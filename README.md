@@ -1,17 +1,17 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="80" />
 </div>
-<h2 align="center">
+<h3 align="center">
   Portfolio Website Version 1
-</h2>
+</h3>
 
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+### 🚨 Forking this repo
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+-- Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-## 🛠 Installation & Set Up
+### 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
 
@@ -37,7 +37,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm start
    ```
 
-## 🚀 Building and Running for Production
+### 🚀 Building and Running for Production
 
 1. Generate a full static production build
 
@@ -51,7 +51,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run serve
    ```
 
-## 🎨 Color Reference
+### 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
