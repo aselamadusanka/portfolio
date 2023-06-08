@@ -22,6 +22,18 @@ module.exports = {
       name: 'Facebook',
       url: 'https://web.facebook.com/asela1madusanka',
     },
+    {
+      name: 'WhatsApp',
+      url: 'https://wa.me/+94769935272',
+    },
+    {
+      name: 'Telegram',
+      url: 'https://t.me/a_s_e_l_a_madusanka',
+    },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w',
+    },
   ],
 
   navLinks: [
