@@ -7,13 +7,13 @@
 
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
 
----
+##
 
 #### 🚨 Forking this repo
 
 - ##### Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
----
+##
 
 #### 🛠 Installation & Set Up
 
@@ -40,8 +40,7 @@
    ```sh
    npm start
    ```
-
----
+##
 
 #### 🚀 Building and Running for Production
 
@@ -56,7 +55,7 @@
    ```sh
    npm run serve
    ```
----
+##
 
 #### 🎨 Color Reference
 
