@@ -1,9 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="80" />
+  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="80" height="80" />
 </div>
 <h3 align="center">
   Portfolio Website Version 1
 </h3>
+
+##
 
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
