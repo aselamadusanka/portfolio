@@ -138,9 +138,13 @@ const About = () => {
               I’ve always been a great problem solver, an independent introvert, and a technophile
               obsessed with the latest devices. Today, I’m an intern Software Engineer, specializing
               in the app development arena at <a href="https://v1.softmint.net/">Softmint</a>{' '}
-              company. I have been developing applications using{' '}
-              <a href="https://flutter.dev/">Flutter</a>. I’m hands-on in all stages of the software
-              development cycle, from planning and design to testing and deployment.
+              company.
+            </p>
+
+            <p>
+              I have been developing applications using <a href="https://flutter.dev/">Flutter</a>.
+              I’m hands-on in all stages of the software development cycle, from planning and design
+              to testing and deployment.
             </p>
 
             <p>
