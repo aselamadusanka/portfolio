@@ -7,6 +7,7 @@ tech:
   - Flutter
   - Firebase
   - vs code
+  - figma
 company: 'Softmint'
 showInProjects: true
 ---

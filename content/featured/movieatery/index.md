@@ -2,8 +2,9 @@
 date: '2'
 title: 'Movieatery WordPress Website'
 cover: './demo.png'
-github: 'https://github.com/aselamadusanka'
+github: ''
 external: 'https://education073.wordpress.com'
+cta: ''
 tech:
   - WordPress
   - php

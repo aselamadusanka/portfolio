@@ -1,10 +1,10 @@
 import React from 'react';
 
 const IconWhatsApp = () => (
-<svg
+  <svg
     xmlns="http://www.w3.org/2000/svg"
     role="img"
-    viewBox="0 0 47 47"
+    viewBox="0 0 47 52"
     fill="none"
     stroke="currentColor"
     strokeWidth="3"

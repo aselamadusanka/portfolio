@@ -7,6 +7,7 @@ tech:
   - HTML
   - css
   - php
+  - figma
 company: 'ITUM'
 showInProjects: true
 ---

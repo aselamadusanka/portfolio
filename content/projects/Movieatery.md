@@ -1,6 +1,6 @@
 ---
 date: '2020-05-01'
-title: 'Movieatery'
+title: 'Movieatery Web Application'
 github: ''
 external: 'https://education073.wordpress.com'
 tech:

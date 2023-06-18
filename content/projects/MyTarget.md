@@ -1,10 +1,11 @@
 ---
 date: '2023-03-24'
-title: 'MyTarget Mobile Application'
+title: 'MyTarget - Mobile Application'
 github: 'https://github.com/aselamadusanka/mytarget_1'
 external: 'https://github.com/aselamadusanka/mytarget_1'
 tech:
   - Flutter
+  - Dart
   - Firebase
   - vs code
 company: 'Softmint'

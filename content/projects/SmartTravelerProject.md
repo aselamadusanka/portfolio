@@ -12,4 +12,6 @@ company: 'ITUM'
 showInProjects: true
 ---
 
-Mobile application to Travelers and camping shop owners. Other contributors : [navindi](https://github.com/Navindi-Nimasha), [chamika](https://github.com/dilshanbeligala), [harsha](https://github.com/Harshawalisundara) & [themiya](https://www.linkedin.com/in/themiya-dissanayake06).
+Mobile application to Travelers and camping shop owners.
+
+Other contributors : [navindi](https://github.com/Navindi-Nimasha), [chamika](https://github.com/dilshanbeligala), [harsha](https://github.com/Harshawalisundara) & [themiya](https://www.linkedin.com/in/themiya-dissanayake06).

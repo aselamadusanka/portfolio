@@ -3,8 +3,8 @@ date: '1'
 title: 'Smart Traveler Mobile Application'
 cover: './smarttraveler.png'
 github: 'https://github.com/aselamadusanka/smart-traveler-app'
-external: 'https://github.com/aselamadusanka/smart-traveler-app'
-cta: 'https://github.com/aselamadusanka/smart-traveler-app'
+external: ''
+cta: ''
 tech:
   - VS Code
   - Flutter
