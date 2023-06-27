@@ -137,8 +137,8 @@ const About = () => {
             <p>
               I’ve always been a great problem solver, an independent introvert, and a technophile
               obsessed with the latest devices. Today, I’m an intern Software Engineer, specializing
-              in the app development arena at <a href="https://v1.softmint.net/">Softmint</a>{' '}
-              company.
+              in the app development arena at{' '}
+              <a href="https://github.com/asela-softmint">Softmint</a> company.
             </p>
 
             <p>
