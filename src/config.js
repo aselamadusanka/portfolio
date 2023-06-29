@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'YouTube',
-      url: 'https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w',
+      url: 'https://www.youtube.com/@_aselamadusanka',
     },
   ],
 

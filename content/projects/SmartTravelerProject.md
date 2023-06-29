@@ -3,6 +3,8 @@ date: '2017-12-27'
 title: 'Smart Traveler'
 github: 'https://github.com/aselamadusanka/smart-traveler-app'
 external: 'https://github.com/aselamadusanka/smart-traveler-app'
+ios: 'https://github.com/aselamadusanka/smart-traveler-app'
+android: 'https://github.com/aselamadusanka/smart-traveler-app'
 tech:
   - Flutter
   - NodeJs

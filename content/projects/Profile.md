@@ -1,14 +1,16 @@
 ---
 date: '2023-04-15'
-title: 'Portfolio Web Application'
+title: 'Profile Web Application'
 github: 'https://github.com/aselamadusanka/html-css-web'
 external: 'https://github.com/aselamadusanka/html-css-web'
+ios: ''
+android: ''
 tech:
   - HTML
   - css
   - js
   - php
-company: ''
+company: 'ITUM'
 showInProjects: true
 ---
 

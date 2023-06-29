@@ -3,6 +3,8 @@ date: '2020-03-27'
 title: 'CaRMaRT Web Application'
 github: 'https://github.com/aselamadusanka/CarSale_web'
 external: 'https://github.com/aselamadusanka/CarSale_web'
+ios: ''
+android: ''
 tech:
   - HTML
   - css

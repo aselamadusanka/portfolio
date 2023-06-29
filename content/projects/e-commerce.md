@@ -3,6 +3,8 @@ date: '2023-04-09'
 title: 'e-commerce Mobile Application'
 github: 'https://github.com/aselamadusanka/ecommerce-projects'
 external: 'https://github.com/aselamadusanka/ecommerce-projects'
+ios: ''
+android: ''
 tech:
   - Flutter
   - Firebase
