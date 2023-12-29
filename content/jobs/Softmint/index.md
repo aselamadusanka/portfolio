@@ -4,7 +4,7 @@ title: 'Software Engineer'
 company: 'Softmint'
 location: 'Kurunegala, Sri Lanka'
 range: 'March 2023 - Present'
-url: 'https://v1.softmint.net/'
+url: 'https://softmint.net/'
 ---
 
 - I'm currently working as an Intern Software Engineer Softmint Software Solutions (PVT) Ltd.
