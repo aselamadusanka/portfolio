@@ -2,10 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Asela Madusanka',
-    description:
-      'Asela Madusanka is a software engineer.',
-    siteUrl: 'aselamadusanka.me', // No trailing slash allowed!
+    title: 'aselamadusanka',
+    description:'Asela Madusanka is a software engineer.',
+    siteUrl: 'https://aselamadusanka.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '__asela_',
   },
