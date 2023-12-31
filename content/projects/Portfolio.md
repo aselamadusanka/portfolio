@@ -15,4 +15,4 @@ showInProjects: true
 
 I'm creating this website using js, java, and html.
 
-Web : [www.aselamadusanka.me](https://github.com/aselamadusanka/portfolio)
+Web : [www.aselamadusanka.me](https://aselamadusanka.me)
