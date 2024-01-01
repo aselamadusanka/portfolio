@@ -11,7 +11,7 @@
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
 
 
-- ##### The fourth iteration of [aselamadusanka.me](https://aselamadusanka.me) built with [Gatsby](https://www.gatsbyjs.com/) and hosted with [Netlify](https://www.netlify.com/)
+- ##### The first iteration of [aselamadusanka.me](https://aselamadusanka.me) built with [Gatsby](https://www.gatsbyjs.com/) and hosted with [Netlify](https://www.netlify.com/)
 
 ##
 
