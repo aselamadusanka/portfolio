@@ -3,7 +3,7 @@ date: '2014-08-01'
 title: 'High School'
 company: 'WRC'
 location: 'Kurunegala, Sri Lanka'
-range: 'Spring 2009 & 2017'
+range: '2009 - 2017'
 url: 'https://www.wayambaroyal.lk'
 ---
 

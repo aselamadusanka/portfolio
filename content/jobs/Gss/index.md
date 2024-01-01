@@ -3,7 +3,7 @@ date: '2020-08-31'
 title: 'QAT'
 company: 'GSS'
 location: 'Kurunegala, Sri Lanka'
-range: 'Spring 2018 & 2020'
+range: '2018 september -  2020 October'
 url: 'https://gssintl.biz/'
 ---
 

@@ -3,7 +3,7 @@ date: '2023-03-24'
 title: 'Software Engineer'
 company: 'Softmint'
 location: 'Kurunegala, Sri Lanka'
-range: 'March 2023 - Sep 2023'
+range: 'March - September 2023'
 url: 'https://softmint.net/'
 ---
 

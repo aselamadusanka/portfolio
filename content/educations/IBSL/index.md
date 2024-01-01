@@ -3,7 +3,7 @@ date: '2018-10-01'
 title: 'Certificate Course'
 company: 'IBSL'
 location: 'Kurunegala, Sri Lanka'
-range: 'Spring 2019'
+range: '2019'
 url: 'https://www.ibsl.lk/'
 ---
 

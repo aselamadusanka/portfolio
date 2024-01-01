@@ -3,7 +3,7 @@ date: '2021-09-08'
 title: 'Investment Advisor'
 company: 'AIA'
 location: 'Wariyapola, Sri Lanka'
-range: 'Spring 2020 & 2021'
+range: 'October 2020 - 2021 September'
 url: 'https://www.aialife.com.lk/en/index.html'
 ---
 

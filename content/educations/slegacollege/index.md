@@ -3,7 +3,7 @@ date: '2019-08-01'
 title: 'Diploma in English'
 company: 'Slega'
 location: 'Kadawata, Sri Lanka'
-range: 'Spring 2023'
+range: 'February - May 2023'
 url: 'https://www.slegacollege.lk/'
 ---
 
