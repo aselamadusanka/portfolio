@@ -2,9 +2,9 @@
   <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="50" height="50" />
 </div>
 
-<h1 align="center">
+<h4 align="center">
   Portfolio Website Version 1
-</h1>
+</h4>
 
 
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
