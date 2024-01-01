@@ -1,15 +1,15 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="50" height="50" />
+  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="40" height="40" />
 </div>
 
 <h4 align="center">
   Portfolio Website Version 1
 </h4>
 
+##
 
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
 
-##
 
 - ##### The fourth iteration of [aselamadusanka.me](https://aselamadusanka.me) built with [Gatsby](https://www.gatsbyjs.com/) and hosted with [Netlify](https://www.netlify.com/)
 
