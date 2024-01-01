@@ -1,18 +1,19 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="60" height="60" />
+  <img alt="Logo" src="https://github.com/aselamadusanka/portfolio/blob/main/src/images/logo.png" width="50" height="50" />
 </div>
 
 <h2 align="center">
   Portfolio Website Version 1
 </h2>
 
-- ##### The fourth iteration of [aselamadusanka.me](https://aselamadusanka.me) built with [Gatsby](https://www.gatsbyjs.com/) and hosted with [Netlify](https://www.netlify.com/)
 
 ##
 
 ![demo](https://github.com/aselamadusanka/portfolio/blob/main/src/images/demo.png)
 
 ##
+
+- ##### The fourth iteration of [aselamadusanka.me](https://aselamadusanka.me) built with [Gatsby](https://www.gatsbyjs.com/) and hosted with [Netlify](https://www.netlify.com/)
 
 #### 🚨 Forking this repo
 
