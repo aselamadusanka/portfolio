@@ -2,7 +2,7 @@
 date: ''
 title: 'Portfolio Website Version 1'
 github: 'https://github.com/aselamadusanka/portfolio'
-external: 'https://github.com/aselamadusanka/portfolio'
+external: 'https://aselamadusanka.me/'
 ios: ''
 android: ''
 tech:
