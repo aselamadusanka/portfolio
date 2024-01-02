@@ -1,5 +1,5 @@
 ---
-date: '2017-12-27'
+date: '2023-02-10'
 title: 'Smart Traveler'
 github: 'https://github.com/aselamadusanka/smart-traveler-app'
 external: 'https://github.com/aselamadusanka/smart-traveler-app'

@@ -1,5 +1,5 @@
 ---
-date: '2023-04-15'
+date: ''
 title: 'Profile Web Application'
 github: 'https://github.com/aselamadusanka/html-css-web'
 external: 'https://github.com/aselamadusanka/html-css-web'
