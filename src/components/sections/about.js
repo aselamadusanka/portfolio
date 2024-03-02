@@ -136,16 +136,9 @@ const About = () => {
           <div>
             <p>
               I’ve always been a great problem solver, an independent introvert, and a technophile
-              obsessed with the latest devices.
-              {/* I have been employed at {' '}
-              <a href="https://github.com/asela-softmint">Softmint</a> in the capacity of 
-              a Software Engineer.
-            </p>
-
-            <p> */}
-              I have been developing applications using <a href="https://flutter.dev/">Flutter</a>.
-              I’m hands-on in all stages of the software development cycle, from planning and design
-              to testing and deployment.
+              obsessed with the latest devices. I have been developing applications using{' '}
+              <a href="https://flutter.dev/">Flutter</a>. I’m hands-on in all stages of the software
+              development cycle, from planning and design to testing and deployment.
             </p>
 
             <p>
