@@ -1,6 +1,6 @@
 ---
 date: '2023-03-24'
-title: 'Software Engineer'
+title: 'Software Engineer Intern'
 company: 'Softmint'
 location: 'Kurunegala, Sri Lanka'
 range: 'March - September 2023'
