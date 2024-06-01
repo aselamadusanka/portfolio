@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Flutter', 'JavaScript', 'Python', 'MySQL', 'Node.js', 'WordPress'];
+  const skills = ['Flutter', 'React',  'Firebase', 'JavaScript', 'WordPress', 'Figma'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,17 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’ve always been a great problem solver, an independent introvert, and a technophile
-              obsessed with the latest devices. I have been developing applications using{' '}
-              <a href="https://flutter.dev/">Flutter</a>. I’m hands-on in all stages of the software
-              development cycle, from planning and design to testing and deployment.
+              I have always been an adept problem solver, characterized by a blend of introversion and independence, with a strong affinity for the latest technological innovations.
+              My professional expertise is deeply rooted in developing  {' '}
+              <a href="https://flutter.dev/">Flutter</a>  applications, and I am currently expanding my skills by learning {' '}
+              <a href="https://react.dev/">React</a>. My comprehensive involvement covers all phases of the software development life cycle, from initial design and planning to the meticulous phases of testing and implementation.
             </p>
 
             <p>
-              Working with people from a variety of fields is one of my favorite things about
-              software development. Working with so many various people and departments is a
-              necessary part of the software development lifecycle, so it's wonderful to be able to
-              associate with other experts who are working toward the same objective.
+              I love working with people as a software engineer with a focus on creating mobile apps.
+              Working with interdisciplinary teams allows us to apply our collective insight to creatively and precisely solve complex problems.
+            </p>
+
+            <p>
+              My proactive communication and adaptability shape the success of our projects,
+              fueling my drive for excellence and passion for pushing the boundaries of mobile technology.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently :</p>
