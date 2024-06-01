@@ -40,7 +40,7 @@ module.exports = {
     },
     {
       name: 'TikTok',
-      url: 'https://www.tiktok.com/@_asela?_t=8mq40Mis5i5&_r=1',
+      url: 'https://www.tiktok.com/@__asela_',
     },
   ],
 
