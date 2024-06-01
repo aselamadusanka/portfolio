@@ -18,7 +18,9 @@ import {
   IconFacebook,
   IconWhatsApp,
   IconTelegram,
-  IconYouTube
+  IconYouTube,
+  IconTikTok,
+  IconThreads
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -49,6 +51,10 @@ const Icon = ({ name }) => {
       return <IconYouTube />;
     case 'Linkedin':
       return <IconLinkedin />;
+    case 'TikTok':
+      return <IconTikTok />;
+    case 'Threads':
+      return <IconThreads />;
     case 'Loader':
       return <IconLoader />;
     case 'Logo':

@@ -7,5 +7,6 @@ range: 'March 2024 - Present'
 url: 'https://mechsit.com/'
 ---
 
-- I worked as an Intern Software Engineer at MechSIT (PVT) Ltd.
-- I specialize in developing mobile apps using [Flutter](https://flutter.dev), an exciting and versatile framework.
+- My current position at MechSIT (PVT) Ltd. is as an intern software engineer.
+- I am an expert at making mobile apps using the flexible and dynamic frameworks of [Flutter](https://flutter.dev) and [Firebase](https://flutter.dev).
+- And i'm learning to use [React](https://react.dev/) frameworks and work with projects.

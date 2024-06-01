@@ -65,12 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Third Year Information Technology Undergraduate Student at{' '}
+        As a Software Engineer at {' '}
+        <a href="https://mechsit.com/" target="_blank" rel="noreferrer">
+          MechSIT
+        </a> and a third-year information technology undergraduate at the {' '}
         <a href="https://itum.mrt.ac.lk/" target="_blank" rel="noreferrer">
-          NDT In University of Moratuwa
+          National Diploma in Technology
         </a>
-        . I’m interested in exploring new technologies related to software development. I enjoy
-        learning new skills and implementing them in real life!
+         {' '}(NDT) program at the{' '}
+         <a href="https://uom.lk/" target="_blank" rel="noreferrer">
+                   University of Moratuwa
+         </a>, I am deeply engaged in the exploration of emerging software technologies. My academic and professional journeys are characterized by a robust passion for acquiring new skills and applying them in practical scenarios, continuously enhancing both my personal expertise and contributing to the field.
       </p>
     </>
   );

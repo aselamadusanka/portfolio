@@ -31,8 +31,16 @@ module.exports = {
       url: 'https://t.me/a_s_e_l_a_madusanka',
     },
     {
+      name: 'Threads',
+      url: 'https://www.threads.net/@__asela_',
+    },
+    {
       name: 'YouTube',
       url: 'https://www.youtube.com/@_aselamadusanka',
+    },
+    {
+      name: 'TikTok',
+      url: 'https://www.tiktok.com/@_asela?_t=8mq40Mis5i5&_r=1',
     },
   ],
 
