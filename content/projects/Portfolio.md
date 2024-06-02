@@ -13,6 +13,6 @@ company: ''
 showInProjects: true
 ---
 
-I'm creating this website using js, java, and html.
+I'm crafting a sleek website using [React](https://react.dev/), [HTML](https://html.com/), [Java](https://www.java.com/en/) and [JavaScript](https://www.javascript.com/) to deliver a dynamic and responsive user experience.
 
 Web : [www.aselamadusanka.me](https://aselamadusanka.me)

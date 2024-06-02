@@ -7,4 +7,6 @@ range: '2019'
 url: 'https://www.ibsl.lk/'
 ---
 
-- I am pleased to inform you that I have successfully completed the IBSL Insurance Exam, demonstrating my knowledge and competence in the field of insurance.
+- I'm excited to announce my successful completion of the IBSL Insurance Exam, marking a key milestone in my career.
+- This certification empowered me to provide expert advice and professional service to our clients, ensuring their needs were met effectively.
+- I looked forward to applying this knowledge to advance industry standards and deliver exceptional service.
