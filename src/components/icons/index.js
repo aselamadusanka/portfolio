@@ -17,6 +17,6 @@ export { default as IconTwitter } from './twitter';
 export { default as IconFacebook } from './facebook';
 export { default as IconWhatsApp } from './whatsapp';
 export { default as IconTelegram } from './telegram';
-export { default as IconYouTube } from './youtube';
+//export { default as IconYouTube } from './youtube';
 export { default as IconTikTok } from './tiktok';
 export { default as IconThreads } from './threads';

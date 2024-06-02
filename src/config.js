@@ -34,10 +34,10 @@ module.exports = {
       name: 'Threads',
       url: 'https://www.threads.net/@__asela_',
     },
-    {
-      name: 'YouTube',
-      url: 'https://www.youtube.com/@_aselamadusanka',
-    },
+//    {
+//      name: 'YouTube',
+//      url: 'https://www.youtube.com/@_aselamadusanka',
+//    },
     {
       name: 'TikTok',
       url: 'https://www.tiktok.com/@__asela_',
